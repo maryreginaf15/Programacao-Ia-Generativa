@@ -1,10 +1,66 @@
-# Programacao-Ia-Generativa
+Programação em Inteligência Artificial Generativa
 
-## Arquivos em Python - Programação em Inteligência Artificial Generativa IA GEN
+Repositório com estudos, exercícios e projetos desenvolvidos durante o curso de Programação em Inteligência Artificial Generativa no SENAI “Ary Torres”.
 
+O objetivo deste repositório é documentar a evolução prática em desenvolvimento com Inteligência Artificial, utilizando Python para análise de dados, machine learning, visão computacional e processamento de linguagem natural.
 
-O curso de **Programação em Inteligência Artificial Generativa** proporciona conhecimentos práticos e atualizados para o desenvolvimento de soluções inteligentes utilizando IA generativa. Durante a formação, foram desenvolvidas habilidades em programação com a linguagem **Python**, aplicadas na criação, análise e otimização de códigos, além da identificação e correção de erros em aplicações.
+Durante o curso foram desenvolvidas atividades práticas relacionadas à manipulação e tratamento de dados, automação de tarefas com Python, criação e treinamento de modelos de Machine Learning, visão computacional, processamento de linguagem natural, análise e otimização de código e boas práticas de desenvolvimento de software.
 
-As atividades práticas foram realizadas utilizando o **Google Colab**, uma plataforma online que facilita a criação e execução de códigos diretamente no navegador, sem necessidade de instalação de programas no computador. Entre os principais benefícios do uso do Google Colab estão a facilidade de acesso, integração com bibliotecas de inteligência artificial, salvamento automático em nuvem e possibilidade de executar projetos de qualquer lugar.
+Tecnologias utilizadas
 
-Ao longo do curso, foram aprendidos conceitos de lógica de programação, automação de tarefas, utilização de ferramentas de inteligência artificial generativa, melhoria de desempenho de aplicações e boas práticas de desenvolvimento de software. A formação também contribuiu para o aprimoramento da capacidade de aprender novas tecnologias e desenvolver soluções inovadoras para diferentes áreas da tecnologia.
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* YOLO
+* Google Colab
+* Machine Learning
+* Processamento de Linguagem Natural (PLN)
+
+Projeto desenvolvido
+
+Sistema de Classificação de Atendimento Hospitalar
+
+Projeto final desenvolvido utilizando Inteligência Artificial para auxiliar na classificação de atendimento hospitalar com base em dados.
+
+🌐 Aplicação online:
+https://classificando-atendimento-hospitalar.onrender.com
+
+🔗 Repositório do projeto:
+https://github.com/maryreginaf15/classificando_atendimento_hospitalar
+
+Como executar o projeto na máquina
+
+1. Clone o repositório
+
+git clone https://github.com/maryreginaf15/Programacao-Ia-Generativa.git
+
+2. Acesse a pasta do projeto
+
+cd Programacao-Ia-Generativa
+
+3. Crie um ambiente virtual (opcional, mas recomendado)
+
+Windows
+
+python -m venv venv
+venv\Scripts\activate
+
+Linux/Mac
+
+python3 -m venv venv
+source venv/bin/activate
+
+4. Instale as dependências
+
+pip install -r requirements.txt
+
+5. Execute o projeto
+
+python nome_do_arquivo.py
+
+Substitua nome_do_arquivo.py pelo arquivo principal do projeto.
+
+Grande parte das atividades foi desenvolvida no Google Colab, permitindo a execução dos códigos diretamente no navegador com integração às principais bibliotecas de Inteligência Artificial e Machine Learning.
+
+Este repositório tem como finalidade compartilhar aprendizado, evolução prática e projetos desenvolvidos durante a formação em Inteligência Artificial Generativa.
